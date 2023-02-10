@@ -2,7 +2,13 @@
   display: block;
   margin: 0 auto;
   padding: 0;
-  width: calc(100% - 296px);
+  width: calc(100vw - 296px);
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .lead__image {
+    width: calc(100vw - 96px);
+  }
 }
 
 @media screen and (min-width: 320px) and (max-width: 1023px) {
@@ -11,8 +17,4 @@
   }
 }
 
-@media screen and (min-width: 1024px) and (max-width: 1279px) {
-  .lead__image {
-    width: calc(100vw - 96px);
-  }
-}
+
