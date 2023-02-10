@@ -1,0 +1,7 @@
+.cover__background {
+  width: 100vw;
+  max-width: 1184px;
+  display: block;
+  object-fit: cover;
+  margin: 0 auto;
+}
