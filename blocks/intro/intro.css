@@ -3,3 +3,9 @@
   padding: 0;
   color: var(--main-text-color);
 }
+
+@media screen and (min-width: 1281px) {
+  .intro {
+    max-width: 1280px;
+  }
+}

@@ -3,3 +3,10 @@
   margin: 0 0;
   padding: 0;
 }
+
+@media screen and (min-width: 1281px) {
+  .lead {
+    margin: 0 auto;
+    max-width: 1280px;
+  }
+}
