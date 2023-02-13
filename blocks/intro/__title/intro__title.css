@@ -6,6 +6,13 @@
   font-weight: 900;
 }
 
+@media screen and (min-width: 1281px) {
+  .intro__title {
+    margin-left: 0
+  }
+}
+
+
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
   .intro__title {
     margin: 92px 48px 40px;

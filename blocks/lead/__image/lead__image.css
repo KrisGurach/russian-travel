@@ -5,6 +5,12 @@
   width: calc(100vw - 296px);
 }
 
+@media screen and (min-width: 1281px) {
+  .lead__image {
+    max-width: 1280px;
+  }
+}
+
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
   .lead__image {
     width: calc(100vw - 96px);

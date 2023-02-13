@@ -4,6 +4,12 @@
   max-width: 690px;
 }
 
+@media screen and (min-width: 1281px) {
+  .intro__lists {
+    margin-left: 0
+  }
+}
+
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
   .intro__lists {
     margin: 0 48px 92px;
