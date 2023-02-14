@@ -4,6 +4,6 @@
 
 В этой работе используется grid-layout, что позволяет строить различные сложные сетки с минимальным количеством кода.
 
-Ссылка на GitHub: https://github.com/KrisGurach/russian-travel.git
+Ссылка на GitHub: https://krisgurach.github.io/russian-travel/
 
 
